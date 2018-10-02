@@ -34,4 +34,4 @@ const sum = (...args) => {
     return sum;
 }
 
-console.log(`The spread operator can be used for function call arguments like this sum function: ${sum(1,2,3)}`);
+console.log(`The spread operator can be used for function call arguments like this sum function: ${sum(...array)}`);
