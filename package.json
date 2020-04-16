@@ -9,7 +9,7 @@
   "author": "Nicholas McHenry",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "jsonwebtoken": "^8.3.0",
     "request": "^2.88.0"
   }
