@@ -2,7 +2,7 @@
 
 ## Articles
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
+- <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function>
 
 ## Usage
 
@@ -12,7 +12,7 @@ This is actually a surprisingly easy aspect of ES8 to use. It allows for code to
 
 *Note the order that the print statements occur in the output. This is due to the non-blocking I/O nature of Node.JS
 
-```
+```JavaScript
 const axios = require('axios');
 
 const testApiCall = async () => {
@@ -40,5 +40,5 @@ const callAsync = async () => {
     console.log(message);
 }
 
-callAsync(); 
+callAsync();
 ```
