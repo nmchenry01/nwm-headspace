@@ -2,9 +2,9 @@
 
 ## Articles
 
-- https://reactnative.dev/docs/flexbox
-- https://reactnative.dev/docs/layout-props
-- https://medium.com/wix-engineering/the-full-react-native-layout-cheat-sheet-a4147802405c
+- <https://reactnative.dev/docs/flexbox>
+- <https://reactnative.dev/docs/layout-props>
+- <https://medium.com/wix-engineering/the-full-react-native-layout-cheat-sheet-a4147802405c>
 
 ## Description
 
@@ -20,3 +20,4 @@ React-Native uses Flexbox by default. Furthermore, its styling is similar to CSS
 - **padding** - Sets the padding area on all four sides of a container (shorthand for using the top, bottom, left, right variants). The space between the content of a container and its borders.
 - **margin** - Sets the margin on all four sides of a container. Creates extra space around a container, as opposed to within (like with padding).
 - **flex** - Sizes an element relative to other components. For example, having two elements with `flex: 1` set will make it so each takes up 50% of the available space. Higher numbers mean a greater percentage of space is taken up.
+- **backgroundColor** - Sets the color of the background of a container.
